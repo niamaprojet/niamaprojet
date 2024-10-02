@@ -1,0 +1,70 @@
+.title{color: white;
+   text-align: center;
+   font-size: x-large;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{ display: flex; 
+  justify-content: space-between;
+  align-items: center;    
+}
+div>a{text-decoration: none;
+          color: white;
+          padding: 20px; 
+          font-size: larger;
+
+}
+header div{
+  padding-right: 60px;
+}
+.header{background-color: #8d6e63;
+}
+.card1{
+        background-color: #d7ccc8;
+        margin: 18px;
+        border-radius: 4%;
+        text-align: center;
+
+}
+
+header>img{
+  width: 160px;
+  height: 160px;
+  padding: 6px;
+}
+    
+h1{color: rgb(95, 76, 50);
+   text-align: center; 
+   font-size: x-large;
+}
+.section{display: flex;
+    border: 3px solid white;
+    
+    background-color:rgb(255, 249, 241);
+  
+}
+.article{text-align: center;
+         color: rgb(95, 78, 58);
+         font-size: medium;
+         background-color: #efebe9 ;
+}
+.p1{color: white;
+  text-align: center;
+  font-size: medium;
+}
+.footer{text-align: center;
+        background-color:#8d6e63;
+        color: white;
+        
+}
+.section>.card1>img{width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 25px;
+    
+}
+main{background-image: url('background-office-bg-changed.jpg');
+  padding: 30px;
+}
+.section2>div{
+  background-color: #f4f1ea;
+}
